@@ -1,0 +1,126 @@
+@media (max-width: 799px){
+   
+    body{
+        background-image: url(images/bg-header-mobile.png);
+        background-position: center top;
+        background-repeat: no-repeat;
+        background-size: contain;
+        padding: 30px 20px;
+        overflow-x: hidden;
+        text-align: center;
+        font-family: "Bai Jamjuree", sans-serif;
+    }
+    p{
+        color:  hsl(201, 11%, 66%);
+        width: 100%;
+        margin-inline: auto;
+        line-height: 1.5;
+        padding-top: 1rem;
+    }
+    .logo-google{
+        width: 40%;
+        padding-bottom: 1.5rem;
+    }
+    .btn{
+        display: block;
+        padding: 10px;
+        border-radius: 100px;
+        color: white;
+        width: 100%;
+        margin: 20px 10px 20px 0;
+    }
+    .btn-iOS{
+        background-color:  hsl(171, 66%, 44%);
+        border: 1px solid  hsl(171, 66%, 44%);
+    }
+    .btn-Mac{
+        background-color:  hsl(233, 100%, 69%);
+        border: 1px solid  hsl(233, 100%, 69%);
+    }
+    .dnd{
+        padding-top: 4rem;
+    }
+    .div2-content2{
+        display: block;
+        padding-top: 3rem;
+    }
+    .div2-content2 h2{
+        text-align: center;
+        margin-left: 0;
+        line-height: 2;
+    }
+    .div2-content2 p{
+        text-align: center;
+        width: 70%;
+    }
+    .image-computer{
+        margin-left: 0;
+        width: 100%;
+    }
+    .image-devices{
+        width: 100%;
+        padding-top: 3rem;
+    }
+    .div4-content1 h1{
+        line-height: 1;
+    }
+    .div4-content2{
+        display: block;
+        padding-top: 3rem;
+    }
+    .icons{
+        padding-top: 2rem;
+    }
+    .text h2{
+        line-height: 1;
+    }
+    .text p{
+        width: 80%;
+    }
+    .press-logo{
+        margin: 50px 60px 50px; 
+    }
+    .div5-content1{
+        line-height: 1;
+    }
+    .footer{
+        display: block;
+         text-align: center;
+        margin: -30px -1.25rem;
+        padding:  20px;
+        background-color:  hsl(201, 11%, 66%);
+      
+    }
+    .link-2{
+        margin-bottom: 4rem;
+    }
+    .footer p{
+        color:  hsl(210, 10%, 33%);
+    }
+    .logo{
+        width: 40px;
+        text-align: center;
+        margin-left: 0rem;
+       
+    }
+    .info{
+        margin-left: orem;
+    }
+    .info p{
+        width: 100%;
+        line-height: 3;
+        text-align: center;
+        margin-left: -3rem;
+        
+    }
+    .install{
+        margin-bottom: 1rem;
+    }
+    .social-icons{
+        margin: 1rem 5px;
+    }
+    .social{
+        margin-left: 0rem;
+        margin-bottom: 20px;
+    }
+}

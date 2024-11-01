@@ -1,0 +1,121 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(images/bg-header-desktop.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    padding: 5rem 5rem 10px;
+    text-align: center;
+    font-family: "Bai Jamjuree", sans-serif;
+
+  
+}
+h1 , h2{
+    color:  hsl(210, 10%, 33%);
+}
+p{
+    color:  hsl(201, 11%, 66%);
+    width: 43%;
+    margin-inline: auto;
+    line-height: 1.5;
+}
+.logo-google{
+    width: 80px;
+    padding-bottom: 1.5rem;
+}
+.btn{
+    padding: 15px 10px;
+    border-radius: 100px;
+    color: white;
+    width: 15%;
+    margin: 2rem 10px 2rem 0;
+}
+.btn-iOS{
+    background-color:  hsl(171, 66%, 44%);
+    border: 1px solid  hsl(171, 66%, 44%);
+}
+.btn-Mac{
+    background-color:  hsl(233, 100%, 69%);
+    border: 1px solid  hsl(233, 100%, 69%);
+}
+.dnd{
+    padding-top: 4rem;
+}
+.div2-content2{
+    display: inline-flex;
+    padding-top: 3rem;
+}
+.div2-content2 h2{
+    text-align: left;
+    margin-left: 5rem;
+    line-height: 2;
+}
+.div2-content2 p{
+    text-align: left;
+    width: 70%;
+}
+.image-computer{
+    margin-left: -15rem;
+    width: 600px;
+}
+.image-devices{
+    width: 600px;
+    padding-top: 3rem;
+}
+.div4-content1 h1{
+    line-height: 2;
+}
+.div4-content2{
+    display: inline-flex;
+    padding-top: 3rem;
+}
+.icons{
+    padding-bottom: 1.5rem;
+}
+.text h2{
+    line-height: 2;
+}
+.text p{
+    width: 80%;
+}
+.press-logo{
+    margin: 50px 60px 50px; 
+}
+.div5-content1{
+    line-height: 2;
+}
+.footer{
+    display: flex;
+    /* width: 200%; */
+    margin: -10px -5rem;
+    padding:  20px;
+    background-color:  hsl(201, 11%, 66%);
+  
+}
+.link{
+    margin-bottom: 4rem;
+}
+.footer p{
+    color:  hsl(210, 10%, 33%);
+}
+.logo{
+    width: 40px;
+    text-align: center;
+    margin-left: 5rem;
+}
+.info{
+    margin-left: 7rem;
+}
+.info p{
+    width: 100%;
+    text-align: left;
+}
+.social-icons{
+    margin: 1rem 5px;
+}
+.social{
+    margin-left: 20rem;
+}
